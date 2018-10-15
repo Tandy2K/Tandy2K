@@ -1,6 +1,6 @@
 # Archive for The Tandy 2000 line of personal computers
 
-![Image of Tandy 2000HD](https://github.com/Tandy2K/Tandy2K/blob/master/Images/T2KHDsmall.png)
+![Image of Tandy 2000HD](http://github.com/Tandy2K/Tandy2K/blob/master/Images/T2KHDsmall.png)
 
 ## Tandy 2000 Github Archive Links
 
