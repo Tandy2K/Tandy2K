@@ -8,4 +8,4 @@
 - [Software Documentation](https://github.com/Tandy2K/Tandy2000/blob/master/Documentation/)
 - [Hardware Documentation](https://github.com/Tandy2K/Tandy2000/blob/master/Hardware/)
 - [Software Images](https://github.com/Tandy2K/Tandy2000/blob/master/Software/)
-- [Magazines-Newsletters](https://github.com/Tandy2K/Tandy2000/blob/master/Documentation/Magazines-Newsletters])
+- [Magazines-Newsletters](https://github.com/Tandy2K/Tandy2000/tree/master/Documentation/Magazines-Newsletters)
